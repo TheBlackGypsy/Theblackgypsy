@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects :</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Powershell and Terminal Troubleshooting commands(Troubleshooting Comptia style)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
