@@ -4,7 +4,7 @@
 
 - <b>Powershell and Terminal Troubleshooting commands(Troubleshooting Comptia style)</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos that I like </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -12,29 +12,23 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: [https://twitter.com/joshmadakor](https://twitter.com/MarcellusKnicel)
+[youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)
+[instagram]: https://www.instagram.com/theblackgypsy1/
+[linkedin]: https://www.linkedin.com/in/quintinmcfadden/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on a Bachelors in Cyber and Information Science
+- 🌱 I’m currently learning how to program in the C language and Python
+- 👯 I’m looking to collaborate on beginner projects pertaining to coding
+- 🤔 I’m looking for help with finding a job in the Cybersecurity industry
+- 💬 Ask me about my music and why i am called "The Black Gypsy."
+- 📫 How to reach me: quintinmcfadden@gmail.com or social media
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
