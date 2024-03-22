@@ -1,4 +1,4 @@
-<h1>Hi, I'm The Black Gypsy! <br/>, <a href=https://www.linkedin.com/in/quintinmcfadden/>Cybersecurity Professional</a>, 
+<h1>Hi, I'm The Black Gypsy! <br/>, <a href=https://www.linkedin.com/in/quintinmcfadden/>Cybersecurity Professional</a>
 
 <h2>👨‍💻 Projects :</h2>
 
@@ -13,7 +13,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
-[twitter]: [https://twitter.com/joshmadakor](https://twitter.com/MarcellusKnicel)
+[twitter]: (https://twitter.com/MarcellusKnicel)
 [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)
 [instagram]: https://www.instagram.com/theblackgypsy1/
 [linkedin]: https://www.linkedin.com/in/quintinmcfadden/
