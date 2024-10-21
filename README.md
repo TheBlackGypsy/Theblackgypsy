@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding a job in the Cybersecurity industry
 - 💬 Ask me about my music and why i am called "The Black Gypsy."
 - 📫 How to reach me: quintinmcfadden@gmail.com or social media
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...HE
+- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS
 -->
