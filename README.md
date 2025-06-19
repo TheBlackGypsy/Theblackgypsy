@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects :</h2>
 
-- <b>Powershell and Terminal Troubleshooting commands(Troubleshooting Comptia style)</b>
+- <b>Creating linux virtual machines</b>
 
 <h2>📺 Popular YouTube Videos that I like </h2>
 
