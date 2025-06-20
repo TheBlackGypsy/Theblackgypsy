@@ -1,5 +1,7 @@
 <h1>Hi, I'm The Black Gypsy! <br/>, <a href=https://www.linkedin.com/in/quintinmcfadden/>Cybersecurity Professional</a>
 
+- Student at ECPI University. I am currently working on my second Bachelors 
+
 - 🔭 I’m currently working on a Bachelors in Cyber and Information Science
 - 🌱 I’m currently learning how to program in the C language and Python
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding
