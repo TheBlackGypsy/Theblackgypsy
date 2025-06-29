@@ -11,6 +11,11 @@
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS
 
+
+
+
+
+
 <h2>👨‍💻 Projects :</h2>
 
 - <b>Creating linux virtual machines</b>
