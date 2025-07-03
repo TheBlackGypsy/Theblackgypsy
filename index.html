@@ -10,8 +10,28 @@
 </head>
 <body>
     <div class="container">
+        <!-- Navigation -->
+        <nav class="navigation">
+            <div class="nav-content">
+                <div class="logo">
+                    <i class="fas fa-shield-alt"></i>
+                    <span>The Black Gypsy</span>
+                </div>
+                <div class="nav-links">
+                    <a href="#home" class="nav-link active">Home</a>
+                    <a href="#about" class="nav-link">About</a>
+                    <a href="#research" class="nav-link">Research</a>
+                    <a href="#projects" class="nav-link">Projects</a>
+                    <a href="#contact" class="nav-link">Contact</a>
+                </div>
+                <button class="mobile-menu-btn">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </nav>
+
         <!-- Header Section -->
-        <header class="hero-section">
+        <header id="home" class="hero-section">
             <div class="hero-content">
                 <div class="profile-image">
                     <div class="image-placeholder">
@@ -23,20 +43,30 @@
                 <p class="hero-description">
                     Student at ECPI University working on my second Bachelor's in Cyber and Information Science
                 </p>
+                <div class="cta-buttons">
+                    <button class="btn btn-primary" onclick="scrollToSection('research')">
+                        <i class="fas fa-microscope"></i>
+                        View Research
+                    </button>
+                    <button class="btn btn-secondary" onclick="scrollToSection('contact')">
+                        <i class="fas fa-envelope"></i>
+                        Get In Touch
+                    </button>
+                </div>
                 <div class="social-links">
-                    <a href="https://www.linkedin.com/in/quintinmcfadden/" target="_blank" class="social-link">
+                    <a href="https://www.linkedin.com/in/quintinmcfadden/" target="_blank" class="social-link" data-tooltip="LinkedIn">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="https://twitter.com/MarcellusKnicel" target="_blank" class="social-link">
+                    <a href="https://twitter.com/MarcellusKnicel" target="_blank" class="social-link" data-tooltip="Twitter">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a href="https://www.instagram.com/theblackgypsy1/" target="_blank" class="social-link">
+                    <a href="https://www.instagram.com/theblackgypsy1/" target="_blank" class="social-link" data-tooltip="Instagram">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a href="https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ" target="_blank" class="social-link">
+                    <a href="https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ" target="_blank" class="social-link" data-tooltip="YouTube">
                         <i class="fab fa-youtube"></i>
                     </a>
-                    <a href="mailto:quintinmcfadden@gmail.com" class="social-link">
+                    <a href="mailto:quintinmcfadden@gmail.com" class="social-link" data-tooltip="Email">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
@@ -44,50 +74,210 @@
         </header>
 
         <!-- About Section -->
-        <section class="about-section">
+        <section id="about" class="about-section">
             <div class="section-header">
                 <h2><i class="fas fa-user"></i> About Me</h2>
             </div>
             <div class="about-grid">
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-graduation-cap"></i>
                     <h3>Currently Studying</h3>
                     <p>Bachelor's in Cyber and Information Science at ECPI University</p>
+                    <button class="card-btn" onclick="showModal('education-modal')">Learn More</button>
                 </div>
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-code"></i>
                     <h3>Learning</h3>
                     <p>C Programming Language and Python</p>
+                    <button class="card-btn" onclick="showModal('skills-modal')">View Skills</button>
                 </div>
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-handshake"></i>
                     <h3>Collaboration</h3>
                     <p>Looking to collaborate on beginner coding projects</p>
+                    <button class="card-btn" onclick="showModal('collaboration-modal')">Get Involved</button>
                 </div>
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-briefcase"></i>
                     <h3>Career Goal</h3>
                     <p>Seeking opportunities in the Cybersecurity industry</p>
+                    <button class="card-btn" onclick="showModal('career-modal')">View Goals</button>
                 </div>
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-music"></i>
                     <h3>Passion</h3>
                     <p>Music and Computers - Ask me why I'm called "The Black Gypsy"</p>
+                    <button class="card-btn" onclick="showModal('passion-modal')">Discover Why</button>
                 </div>
-                <div class="about-card">
+                <div class="about-card interactive-card">
                     <i class="fas fa-envelope"></i>
                     <h3>Contact</h3>
                     <p>quintinmcfadden@gmail.com</p>
+                    <button class="card-btn" onclick="scrollToSection('contact')">Contact Me</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Research Section -->
+        <section id="research" class="research-section">
+            <div class="section-header">
+                <h2><i class="fas fa-microscope"></i> Cybersecurity Research & Insights</h2>
+                <p class="section-subtitle">Exploring cutting-edge cybersecurity research and industry trends</p>
+            </div>
+            
+            <div class="research-grid">
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-shield-virus"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>Zero Trust Architecture</h3>
+                        <p class="research-excerpt">
+                            Zero Trust is a security model that requires strict identity verification for every person and device trying to access resources on a private network.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">Based on NIST SP 800-207</span>
+                            <span class="date">2020</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('zero-trust')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>AI in Cybersecurity</h3>
+                        <p class="research-excerpt">
+                            Machine learning and AI are revolutionizing threat detection, enabling real-time analysis of vast amounts of security data.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">Goodfellow, I., Bengio, Y., & Courville, A.</span>
+                            <span class="date">2016</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('ai-security')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://www.deeplearningbook.org/" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-cloud-upload-alt"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>Cloud Security Frameworks</h3>
+                        <p class="research-excerpt">
+                            The Cloud Security Alliance (CSA) provides comprehensive guidance for securing cloud computing environments and data.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">Cloud Security Alliance</span>
+                            <span class="date">2023</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('cloud-security')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://cloudsecurityalliance.org/" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-bug"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>Vulnerability Assessment</h3>
+                        <p class="research-excerpt">
+                            OWASP Top 10 provides a standard awareness document for developers and web application security, representing critical security risks.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">OWASP Foundation</span>
+                            <span class="date">2021</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('vulnerability')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://owasp.org/www-project-top-ten/" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-lock"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>Cryptographic Standards</h3>
+                        <p class="research-excerpt">
+                            Post-quantum cryptography research focuses on developing cryptographic systems secure against quantum computer attacks.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">Bernstein, D. J., & Lange, T.</span>
+                            <span class="date">2017</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('cryptography')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://pqcrypto.org/" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-network-wired"></i>
+                    </div>
+                    <div class="research-content">
+                        <h3>Network Security Protocols</h3>
+                        <p class="research-excerpt">
+                            Research on Software-Defined Networking (SDN) security challenges and solutions for modern network infrastructure.
+                        </p>
+                        <div class="research-meta">
+                            <span class="author">Kreutz, D., et al.</span>
+                            <span class="date">2015</span>
+                        </div>
+                        <div class="research-actions">
+                            <button class="btn btn-outline" onclick="showResearchModal('network-security')">
+                                <i class="fas fa-book-open"></i> Read More
+                            </button>
+                            <a href="https://ieeexplore.ieee.org/document/6994333" target="_blank" class="btn btn-link">
+                                <i class="fas fa-external-link-alt"></i> Source
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
 
         <!-- Projects Section -->
-        <section class="projects-section">
+        <section id="projects" class="projects-section">
             <div class="section-header">
                 <h2><i class="fas fa-laptop-code"></i> Projects</h2>
             </div>
-            <div class="project-card">
+            <div class="project-card interactive-card">
                 <div class="project-icon">
                     <i class="fab fa-linux"></i>
                 </div>
@@ -99,6 +289,14 @@
                         <span class="tag">Virtualization</span>
                         <span class="tag">Cybersecurity</span>
                     </div>
+                    <div class="project-actions">
+                        <button class="btn btn-outline" onclick="showModal('project-modal')">
+                            <i class="fas fa-info-circle"></i> Details
+                        </button>
+                        <button class="btn btn-primary">
+                            <i class="fab fa-github"></i> View Code
+                        </button>
+                    </div>
                 </div>
             </div>
         </section>
@@ -109,51 +307,120 @@
                 <h2><i class="fab fa-youtube"></i> Favorite YouTube Videos</h2>
             </div>
             <div class="videos-grid">
-                <a href="https://www.youtube.com/watch?v=a83ASGn_V_s" target="_blank" class="video-card">
+                <a href="https://www.youtube.com/watch?v=a83ASGn_V_s" target="_blank" class="video-card interactive-card">
                     <div class="video-icon">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="video-content">
                         <h3>How to get into Cybersecurity Starting From Zero</h3>
                         <p>Essential guide for cybersecurity beginners</p>
+                        <div class="video-meta">
+                            <span><i class="fas fa-eye"></i> Educational</span>
+                            <span><i class="fas fa-clock"></i> Career Guide</span>
+                        </div>
                     </div>
                 </a>
-                <a href="https://www.youtube.com/watch?v=uHy3oM7NnoU" target="_blank" class="video-card">
+                <a href="https://www.youtube.com/watch?v=uHy3oM7NnoU" target="_blank" class="video-card interactive-card">
                     <div class="video-icon">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="video-content">
                         <h3>A Day in the Life of a Cybersecurity Analyst</h3>
                         <p>Insight into cybersecurity professional life</p>
+                        <div class="video-meta">
+                            <span><i class="fas fa-briefcase"></i> Career</span>
+                            <span><i class="fas fa-user-tie"></i> Professional</span>
+                        </div>
                     </div>
                 </a>
-                <a href="https://www.youtube.com/watch?v=N-L9hklSlNk" target="_blank" class="video-card">
+                <a href="https://www.youtube.com/watch?v=N-L9hklSlNk" target="_blank" class="video-card interactive-card">
                     <div class="video-icon">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="video-content">
                         <h3>How to Create a KeyLogger (C#)</h3>
                         <p>Programming tutorial for security tools</p>
+                        <div class="video-meta">
+                            <span><i class="fas fa-code"></i> Programming</span>
+                            <span><i class="fas fa-shield-alt"></i> Security</span>
+                        </div>
                     </div>
                 </a>
-                <a href="https://www.youtube.com/watch?v=OfvdQeh79s0" target="_blank" class="video-card">
+                <a href="https://www.youtube.com/watch?v=OfvdQeh79s0" target="_blank" class="video-card interactive-card">
                     <div class="video-icon">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="video-content">
                         <h3>Ransomware Demonstration (C#)</h3>
                         <p>Educational cybersecurity demonstration</p>
+                        <div class="video-meta">
+                            <span><i class="fas fa-virus"></i> Malware</span>
+                            <span><i class="fas fa-graduation-cap"></i> Educational</span>
+                        </div>
                     </div>
                 </a>
-                <a href="https://www.youtube.com/watch?v=E2MwRWxDBkA" target="_blank" class="video-card">
+                <a href="https://www.youtube.com/watch?v=E2MwRWxDBkA" target="_blank" class="video-card interactive-card">
                     <div class="video-icon">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="video-content">
                         <h3>Is WGU Legit?</h3>
                         <p>Educational institution review</p>
+                        <div class="video-meta">
+                            <span><i class="fas fa-university"></i> Education</span>
+                            <span><i class="fas fa-star"></i> Review</span>
+                        </div>
                     </div>
                 </a>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact-section">
+            <div class="section-header">
+                <h2><i class="fas fa-envelope"></i> Get In Touch</h2>
+                <p class="section-subtitle">Let's connect and discuss cybersecurity opportunities</p>
+            </div>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <div>
+                            <h3>Email</h3>
+                            <p>quintinmcfadden@gmail.com</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-graduation-cap"></i>
+                        <div>
+                            <h3>Education</h3>
+                            <p>ECPI University</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div>
+                            <h3>Focus</h3>
+                            <p>Cybersecurity & Information Science</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-paper-plane"></i> Send Message
+                        </button>
+                    </form>
+                </div>
             </div>
         </section>
 
@@ -164,6 +431,16 @@
                 <p>Cybersecurity Professional | Student | Music Enthusiast</p>
             </div>
         </footer>
+    </div>
+
+    <!-- Modals -->
+    <div id="modal-overlay" class="modal-overlay" onclick="closeModal()">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeModal()">
+                <i class="fas fa-times"></i>
+            </button>
+            <div id="modal-body"></div>
+        </div>
     </div>
 
     <script src="script.js"></script>
