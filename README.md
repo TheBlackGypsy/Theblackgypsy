@@ -2,14 +2,14 @@
 
 - Student at ECPI University. I am currently working on my second Bachelors in Cyber and Information Science
 
-- 🔭 I’m currently working on a Bachelors in Cyber and Information Science
+<h1> - 🔭 I’m currently working on a Bachelors in Cyber and Information Science
 - 🌱 I’m currently learning how to program in the C language and Python
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding
 - 🤔 I’m looking for help with finding a job in the Cybersecurity industry
 - 💬 Ask me about my music and why i am called "The Black Gypsy."
 - 📫 How to reach me: quintinmcfadden@gmail.com or social media
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS
+- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS <h1></h1>
 
 
 <h2>👨‍💻 Projects :</h2>
