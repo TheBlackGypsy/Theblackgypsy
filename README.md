@@ -9,7 +9,7 @@
 - 💬 Ask me about my music and why i am called "The Black Gypsy."
 - 📫 How to reach me: quintinmcfadden@gmail.com or social media
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS <h1></h1>
+- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS </h1>
 
 
 <h2>👨‍💻 Projects :</h2>
