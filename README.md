@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS
 -->
+
+<h2>📜 Certifications:</h2>
