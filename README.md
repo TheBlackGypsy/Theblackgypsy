@@ -21,15 +21,6 @@ https://www.loom.com/share/3aec1d3732c54caa97e774b5b22d6b36?sid=a582b86e-d3c0-43
 
 <h2>🧰 Tools:</h2>
 
-<h2>📺 Popular YouTube Videos that I like </h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
-
-
 [twitter]: (https://twitter.com/MarcellusKnicel)
 [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)
 [instagram]: https://www.instagram.com/theblackgypsy1/
