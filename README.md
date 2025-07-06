@@ -29,6 +29,11 @@ Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
+Security Testing
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+</div>
 
 [twitter]: (https://twitter.com/MarcellusKnicel)
 [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)
