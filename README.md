@@ -20,12 +20,12 @@
 https://www.loom.com/share/3aec1d3732c54caa97e774b5b22d6b36?sid=a582b86e-d3c0-4392-b2f8-48f65c5402f1
 
 <h2>🧰 Tools:</h2>
-### Network
+Network
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-### Endpoint
+Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
