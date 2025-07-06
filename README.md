@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS </h1>
 
 
-<h2>👨‍💻 Projects :</h2>
+<h2>👨‍💻 Active Directory Projects :</h2>
 
 - <b>Changing the name of a computer using powershell</b>
 
