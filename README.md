@@ -22,7 +22,7 @@ https://www.loom.com/share/3aec1d3732c54caa97e774b5b22d6b36?sid=a582b86e-d3c0-43
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 
 [twitter]: (https://twitter.com/MarcellusKnicel)
