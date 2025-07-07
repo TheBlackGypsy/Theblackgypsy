@@ -6,7 +6,7 @@
 </div>
 
 <h2>- Student at ECPI University. I am currently working on my second Bachelors in Cyber and Information Science at ECPI University</h2>
-<h2> - 🔭 I’m currently working on a Bachelors in Cyber and Information Science </h2>
+
 - 🌱 I’m currently learning how to program in the C language and Python </h1>
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding </h1>
 - 🤔 I’m looking for help with finding a job in the Cybersecurity industry </h1>
