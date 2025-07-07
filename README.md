@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding </h1>
 - 🤔 I’m looking for help with finding a job in the Cybersecurity industry </h1>
 - 💬 Ask me about my music and why I am called "The Black Gypsy." </h1>
-- 📫 How to reach me:<a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me :<a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS </h1>
 
@@ -51,10 +51,9 @@ Vulnerability Management
 
 <div>
 [twitter]: (https://twitter.com/MarcellusKnicel)</div>
-<div> [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)</div>
-<div> [instagram]: https://www.instagram.com/theblackgypsy1/</div>
-<div> [linkedin]: https://www.linkedin.com/in/quintinmcfadden/</div>
-
+<div>[youtube]:(https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)</div>
+<div>[instagram]: https://www.instagram.com/theblackgypsy1/</div>
+<div>[linkedin]: https://www.linkedin.com/in/quintinmcfadden/</div>
 <!--
 
 Here are some ideas to get you started:
