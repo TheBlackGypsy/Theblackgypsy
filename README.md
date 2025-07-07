@@ -37,11 +37,11 @@ Security Testing
     <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
-
+<div>
 [twitter]: (https://twitter.com/MarcellusKnicel)
 [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)
 [instagram]: https://www.instagram.com/theblackgypsy1/
-[linkedin]: https://www.linkedin.com/in/quintinmcfadden/
+[linkedin]: https://www.linkedin.com/in/quintinmcfadden/</div>
 
 <!--
 
