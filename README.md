@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning how to program in the C language and Python </h1>
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding </h1>
 - 🤔 I’m looking for help with finding a job in the Cybersecurity industry </h1>
-- 💬 Ask me about my music and why i am called "The Black Gypsy." </h1>
+- 💬 Ask me about my music and why I am called "The Black Gypsy." </h1>
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS </h1>
