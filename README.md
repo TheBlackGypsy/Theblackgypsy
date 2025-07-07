@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<h1>- I am a Student at ECPI University. I am currently working on my second Bachelors in Cyber and Information Science at ECPI University</h1>
+<h1> I am a Student at ECPI University. I am currently working on my second Bachelors in Cyber and Information Science at ECPI University</h1>
 
 - 🌱 I’m currently learning how to program in the C language and Python </h1>
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding </h1>
@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 
 <h2>📜 Certifications:</h2>
 
-- CEH: Expected September 2025 <br>- CompTIA Security+: June 2026 <br>- CompTIA Linux+: April 2028 <br>- ITILv4: September 2022<br>- 
+- CEH: Expected September 2025 <br>- CompTIA Security+: June 2026 <br>- CompTIA Linux+: April 2028 <br>- ITILv4: September 2022<br>
