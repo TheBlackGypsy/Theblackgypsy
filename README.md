@@ -37,6 +37,17 @@ Security Testing
     <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
+Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
+
+ Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
+
 <div>
 [twitter]: (https://twitter.com/MarcellusKnicel)</div>
 <div> [youtube]: (https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)</div>
