@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Quintin+McFadden!;" />
 </h1>
+<div align="center">
+    <a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 <h2>- Student at ECPI University. I am currently working on my second Bachelors in Cyber and Information Science at ECPI University</h2>
 <h2> - 🔭 I’m currently working on a Bachelors in Cyber and Information Science </h2>
