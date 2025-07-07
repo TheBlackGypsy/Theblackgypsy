@@ -59,16 +59,6 @@ Vulnerability Management
 <div>[linkedin]: https://www.linkedin.com/in/quintinmcfadden/</div>
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Bachelors in Cyber and Information Science
-- 🌱 I’m currently learning how to program in the C language and Python
-- 👯 I’m looking to collaborate on beginner projects pertaining to coding
-- 🤔 I’m looking for help with finding a job in the Cybersecurity industry
-- 💬 Ask me about my music and why i am called "The Black Gypsy."
-- 📫 How to reach me: quintinmcfadden@gmail.com or social media
-- 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS
 -->
 
 <h2>📜 Certifications:</h2>
