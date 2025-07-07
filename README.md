@@ -25,15 +25,18 @@
 [OPENVAS Vulnerability scan](https://github.com/users/TheBlackGypsy/projects/2?pane=issue&itemId=118687526&issue=TheBlackGypsy%7CTheblackgypsy%7C1)
 
 <h2>🧰 Tools:</h2>
+
 Network
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
 Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
+
 Security Testing
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
@@ -43,14 +46,14 @@ Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
+
  Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-
 <div>
-[twitter]: (https://twitter.com/MarcellusKnicel)</div>
+    [twitter]:(https://twitter.com/MarcellusKnicel)</div>
 <div>[youtube]:(https://www.youtube.com/channel/UCd7hyqpyP4-UhZr5GM_8-cQ)</div>
 <div>[instagram]: https://www.instagram.com/theblackgypsy1/</div>
 <div>[linkedin]: https://www.linkedin.com/in/quintinmcfadden/</div>
