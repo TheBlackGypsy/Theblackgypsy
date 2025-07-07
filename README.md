@@ -41,7 +41,6 @@ Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
-
  Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
