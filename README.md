@@ -24,7 +24,7 @@ https://www.loom.com/share/3aec1d3732c54caa97e774b5b22d6b36?sid=a582b86e-d3c0-43
 
 <h2>👨‍💻 Vulnerability Management Project :</h2>
 
-
+https://github.com/users/TheBlackGypsy/projects/2?pane=issue&itemId=118687526&issue=TheBlackGypsy%7CTheblackgypsy%7C1
 
 <h2>🧰 Tools:</h2>
 Network
