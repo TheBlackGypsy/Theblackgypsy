@@ -16,11 +16,15 @@
 - ⚡ Fun fact: ...I LOVE MUSIC AND COMPUTERS </h1>
 
 
-<h2>👨‍💻 Active Directory Projects :</h2>
+<h2>👨‍💻 Active Directory Project :</h2>
 
-- <b>Changing the name of a computer using powershell</b>
+<div>Changing the name of a computer using powershell</div>
 
 https://www.loom.com/share/3aec1d3732c54caa97e774b5b22d6b36?sid=a582b86e-d3c0-4392-b2f8-48f65c5402f1
+
+<h2>👨‍💻 Vulnerability Management Project :</h2>
+
+
 
 <h2>🧰 Tools:</h2>
 Network
