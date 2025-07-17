@@ -28,6 +28,7 @@
 
 [**Exploring Ansible Installation on Kali Linux in Azure**](https://loom.com/share/f45b80595db64bc085d2bfc3f6b233ce)
 
+[**Microsoft Azure - How to install GUI on  Ubuntu**](https://www.loom.com/share/5bc7585ef61b4c0b9f2808d6bd4cb741)
 
 <h2>🧰 Tools:</h2>
 
