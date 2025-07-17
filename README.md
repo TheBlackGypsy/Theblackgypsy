@@ -22,7 +22,12 @@
 
 <h2>👨‍💻 Vulnerability Management Project :</h2>
 
-[**OPENVAS Vulnerability scan**](https://github.com/users/TheBlackGypsy/projects/2?pane=issue&itemId=118687526&issue=TheBlackGypsy%7CTheblackgypsy%7C1)
+[**OpenVAS Vulnerability Scan**](https://github.com/users/TheBlackGypsy/projects/2?pane=issue&itemId=118687526&issue=TheBlackGypsy%7CTheblackgypsy%7C1)
+
+<h2>👨‍💻 Cloud Environment Projects :</h2>
+
+[**Exploring Ansible Installation on Kali Linux in Azure**](https://loom.com/share/f45b80595db64bc085d2bfc3f6b233ce)
+
 
 <h2>🧰 Tools:</h2>
 
