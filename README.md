@@ -32,6 +32,11 @@
 
 <h2>🧰 Tools:</h2>
 
+Languages
+<div>
+<a href='https://www.loom.com/share/5bc7585ef61b4c0b9f2808d6bd4cb741' target="_blank"><img alt='Ansible' src='https://img.shields.io/badge/Ansible-100000?style=for-the-badge&logo=Ansible&logoColor=white&labelColor=black&color=E10505'/></a>
+<div>
+
 Network
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
