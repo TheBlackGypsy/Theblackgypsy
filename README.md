@@ -56,6 +56,7 @@ Security Testing
 Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <a href='' target="_blank"><img alt='Ansible' src='https://img.shields.io/badge/OpenVAS-100000?style=for-the-badge&logo=Ansible&logoColor=white&labelColor=09EA5C&color=E4ABAB'/></a>
 </div>
 
  Cloud
