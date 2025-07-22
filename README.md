@@ -73,4 +73,4 @@ Vulnerability Management
 
 <h2>📜 Certifications:</h2>
 
-- CEH: Expected September 2025 <br>- CompTIA Security+: June 2026 <br>- CompTIA Linux+: April 2028 <br>- ITILv4: September 2022<br>
+- AWS Cloud Practitioner: Expected September 2025 <br>- CompTIA Security+: June 2026 <br>- CompTIA Linux+: April 2028 <br>- ITILv4: September 2022<br>
