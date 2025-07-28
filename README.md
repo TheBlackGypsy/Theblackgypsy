@@ -34,7 +34,7 @@
 
 <h2>👨‍💻 Devops Environment :</h2>
 
-[Ansible and SSH](https://github.com/users/TheBlackGypsy/projects/4/views/1?pane=issue&itemId=121681757&issue=TheBlackGypsy%7CTheblackgypsy%7C2)
+[**Ansible and SSH**](https://github.com/users/TheBlackGypsy/projects/4/views/1?pane=issue&itemId=121681757&issue=TheBlackGypsy%7CTheblackgypsy%7C2)
 
 <h2>🧰 Tools:</h2>
 
