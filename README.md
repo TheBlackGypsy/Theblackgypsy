@@ -32,6 +32,10 @@
 
 [**Microsoft Azure - How to install GUI on  Ubuntu**](https://www.loom.com/share/5bc7585ef61b4c0b9f2808d6bd4cb741)
 
+<h2>👨‍💻 Cloud Environment Projects :</h2>
+
+[Ansible and SSH](https://github.com/users/TheBlackGypsy/projects/4/views/1?pane=issue&itemId=121681757&issue=TheBlackGypsy%7CTheblackgypsy%7C2)
+
 <h2>🧰 Tools:</h2>
 
 Languages
