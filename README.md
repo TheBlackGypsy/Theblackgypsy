@@ -36,6 +36,8 @@
 
 [**Ansible and SSH**](https://github.com/users/TheBlackGypsy/projects/4/views/1?pane=issue&itemId=121681757&issue=TheBlackGypsy%7CTheblackgypsy%7C2)
 
+[**Ansible Test and configure**](https://github.com/users/TheBlackGypsy/projects/5/views/1?pane=issue&itemId=121685227&issue=TheBlackGypsy%7CTheblackgypsy%7C3)
+
 <h2>🧰 Tools:</h2>
 
 Languages
