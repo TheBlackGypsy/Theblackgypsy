@@ -41,6 +41,10 @@
 
 [**Ansible Test and configure**](https://github.com/users/TheBlackGypsy/projects/5/views/1?pane=issue&itemId=121685227&issue=TheBlackGypsy%7CTheblackgypsy%7C3)
 
+<h2>👨‍💻 Network Configuration Firewall Projects :</h2>
+
+[**Configuration of a Palo Alto Firewall**](https://youtu.be/u0TF5klMroQ)
+
 <h2>🧰 Tools:</h2>
 
 Languages
