@@ -45,6 +45,8 @@
 
 [**Configuration of a Palo Alto Firewall**](https://youtu.be/u0TF5klMroQ)
 
+[**Configuration of Palo Alto Firewall general and advanced features**](https://youtu.be/_cUSpR52sx0?si=oll55udgjBV7mT3O)
+
 <h2>🧰 Tools:</h2>
 
 Languages
