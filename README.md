@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/quintinmcfadden"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<h1>I am currently working on my Masters in Information Management at Western Governors  University</h1>
+<h1>I am currently working on my Masters in Cybersecurity and Information Assurance at Western Governors University</h1>
 
 - 🌱 I’m currently learning how to program in the C language and Python </h1>
 - 👯 I’m looking to collaborate on beginner projects pertaining to coding </h1>
